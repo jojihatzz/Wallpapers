@@ -11,4 +11,15 @@
 
 
 <img src="https://raw.githubusercontent.com/jojihatzz/Wallpapers/main/wallpapers/big%20sur.jpg" width="700"/>
+
+
+<img src="https://raw.githubusercontent.com/jojihatzz/Wallpapers/main/wallpapers/soap%20bubble1.jpg" width="700"/>
+
+
+<img src="https://raw.githubusercontent.com/jojihatzz/Wallpapers/main/wallpapers/soap%20bubble2.jpg" width="700"/>
+
+
+<img src="https://github.com/jojihatzz/Wallpapers/blob/main/wallpapers/win10.png" width="700"/>
+
+
 </p>
